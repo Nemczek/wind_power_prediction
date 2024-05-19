@@ -1,5 +1,7 @@
 # Wind Power Prediction
 
+Our analysis involved the creation of an econometric model, along with the use of a time series to predict outcomes in various aspects of the data set.
+
 ## Project Data
 
 Location1.csv Wind data was selected as the data for our project
@@ -26,7 +28,6 @@ meters above the surface
 - Power - Turbine output, normalized to a range from 0 to 1 (i.e.
 percentage of the maximum possible output)
 
-Our analysis involved the creation of an econometric model, along with the use of a time series to predict outcomes in various aspects of the data set.
 
 ## Econometric model
 
