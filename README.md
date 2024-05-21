@@ -31,7 +31,7 @@ percentage of the maximum possible output)
 
 ## Econometric model
 
-To make the econometric model, the data was aggregated is daily averages in each month. At first we wondered if we could do the aggregation by summing the variables, but the wind direction, which was expressed in degrees, prevented us from doing so. Then, using scatter plots, we checked which independent variables could show a linear relationship to the dependent variable (Power). In addition, we calculated correlation coefficients. The results of the calculations for the variables showing a linear relationship are shown in the table below.
+To make the econometric model, the data was aggregated is daily averages in each month. At first we wondered if we could do the aggregation by summing the variables, but the wind direction, which was expressed in degrees, prevented us from doing so. Then, using scatter plots, we checked which independent variables could show a linear relationship to the dependent variable (Power). In addition, we calculated correlation coefficients.
 
 
 
